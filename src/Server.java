@@ -25,5 +25,7 @@ public class Server {
 		}
 		
 	}
+	
+	int x;
 
 }
